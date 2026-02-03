@@ -8,14 +8,14 @@ Built as a modular, production-style project demonstrating LLM integration, tool
 
 ## ✨ Features
 
-✅ Conversational AI Chat (Groq LLM)  
-✅ Real-time Web Search (Tavily API)  
-✅ CSV Data Analysis Agent (LangChain Pandas Agent)  
-✅ Modular Service Architecture  
-✅ Streamlit Interactive UI  
-✅ Session Memory Handling  
-✅ Secure API Key Management (.env)  
-✅ GitHub-ready Project Structure  
+ Conversational AI Chat (Groq LLM)  
+ Real-time Web Search (Tavily API)  
+ CSV Data Analysis Agent (LangChain Pandas Agent)  
+ Modular Service Architecture  
+ Streamlit Interactive UI  
+ Session Memory Handling  
+ Secure API Key Management (.env)  
+ GitHub-ready Project Structure  
 
 ---
 
@@ -164,3 +164,4 @@ GitHub: https://github.com/<your-username>
 ## ⭐ If You Found This Useful
 
 Give the repo a star — it helps visibility and supports the project.
+
