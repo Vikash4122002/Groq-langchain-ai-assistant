@@ -1,0 +1,9 @@
+streamlit
+groq
+langchain
+langchain-groq
+langchain-experimental
+tavily-python
+pandas
+python-dotenv
+openpyxl
